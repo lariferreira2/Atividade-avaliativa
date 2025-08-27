@@ -71,3 +71,12 @@ header h1 {
     line-height: 1.2;
     animation: fadeInDown 1.5s ease forwards;
 }
+img{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px #0000001a;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    
+}
